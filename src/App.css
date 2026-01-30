@@ -1,0 +1,19 @@
+.App {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+section {
+  padding: 5rem 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 3rem 0;
+    min-height: auto;
+  }
+}
+
