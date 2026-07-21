@@ -58,7 +58,7 @@ const Projects = () => {
         'Developed analytics queries to compute per-strategy and overall metrics (profit/loss, win vs. loss trends) for daily and monthly views.',
         'Created a responsive React + Vite UI with filters and summary views to explore strategy effectiveness over time.'
       ],
-      link: 'https://github.com/Vaidehi038/Trading-Journal'
+      link: '#'
     }
   ]
 
