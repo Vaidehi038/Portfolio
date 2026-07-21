@@ -48,6 +48,17 @@ const Projects = () => {
         'Added basic evaluation checks (repeatable question sets, error handling, fallback messages) to make responses more reliable'
       ],
       link: '#'
+    },
+    {
+      title: 'Trading Journal App',
+      technologies: ['React', 'Vite', 'Node.js', 'Express', 'PostgreSQL'],
+      description: [
+        'Built a trading journal web app to log day trades, tag each trade with a strategy, and analyze performance across strategies and time periods.',
+        'Implemented a Node.js/Express REST API and designed a PostgreSQL schema for trades, strategies, and performance summaries.',
+        'Developed analytics queries to compute per-strategy and overall metrics (profit/loss, win vs. loss trends) for daily and monthly views.',
+        'Created a responsive React + Vite UI with filters and summary views to explore strategy effectiveness over time.'
+      ],
+      link: 'https://github.com/Vaidehi038/Trading-Journal'
     }
   ]
 
