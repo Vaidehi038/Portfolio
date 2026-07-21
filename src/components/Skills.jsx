@@ -6,7 +6,7 @@ const Skills = () => {
     {
       icon: <FaCode />,
       title: 'Languages',
-      skills: ['Java', 'Python', 'JavaScript', 'TypeScript', 'C', 'SQL']
+      skills: ['Java', 'Python', 'JavaScript', 'TypeScript', 'C/C++', 'SQL']
     },
     {
       icon: <FaLaptopCode />,
